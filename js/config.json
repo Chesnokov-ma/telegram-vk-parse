@@ -1,0 +1,7 @@
+{
+  "vk_token" : "vk1.a.TOKEN",
+  "vk_owner_id" : 123456789,
+  "tg_post_token" : "TOKEN_bot_post",
+  "tg_stat_token" : "TOKEN_stat_post",
+  "tg_owner_id" : 123456789
+}
